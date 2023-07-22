@@ -1,2 +1,2 @@
 # MiniPy
-The mini projects that I created with Python.
+Finally I understand that how this things work XDDD :333
