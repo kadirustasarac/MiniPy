@@ -24,6 +24,8 @@ def f_TheMonster():
 
     if(choice == "1"):
         pass
+    else:
+        pass
 
 while True:
     fate = random.randrange(1,5)
