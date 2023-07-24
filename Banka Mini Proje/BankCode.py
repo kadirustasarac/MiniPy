@@ -68,7 +68,3 @@ while True:
    
     checkUser(name,password)
     print(savedUsers)
-        
-
-
-
